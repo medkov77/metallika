@@ -1,0 +1,11 @@
+import sk from "./sk.jpg";
+import sk1 from "./sk1.jpg";
+import hsk from "./hsk.jpg";
+import hsk1 from "./hsk1.jpg";
+import capto from "./capto.jpg";
+import capto1 from "./capto1.jpg";
+import vidi from "./vidi.jpg";
+import vidi1 from "./vidi1.jpg";
+import opt1 from "./ekran.jpg";
+import opt2 from "./ekran1.jpg";
+export { sk, sk1, hsk, hsk1, capto, capto1, vidi, vidi1, opt1, opt2 };
